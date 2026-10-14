@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "latex:block/rubber_slab"
+    },
+    "type=double": {
+      "model": "latex:block/rubber_planks"
+    },
+    "type=top": {
+      "model": "latex:block/rubber_slab_top"
+    }
+  }
+}

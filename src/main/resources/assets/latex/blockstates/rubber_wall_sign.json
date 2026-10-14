@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "latex:block/rubber_wall_sign",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "latex:block/rubber_wall_sign",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "latex:block/rubber_wall_sign"
+    },
+    "facing=west": {
+      "model": "latex:block/rubber_wall_sign",
+      "y": 90
+    }
+  }
+}

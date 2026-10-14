@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:random_selector",
+  "default": "latex:rubber_checked",
+  "features": [ { "chance": 0.3, "feature": "latex:mega_rubber_checked" } ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": "latex:loose_rubber",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "R",
+    "S",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "latex:rubber_shovel"
+  }
+}

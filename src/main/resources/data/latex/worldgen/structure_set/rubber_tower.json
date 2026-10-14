@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "latex:rubber_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 12,
+    "spread_type": "triangular",
+    "salt": 17240813
+  }
+}

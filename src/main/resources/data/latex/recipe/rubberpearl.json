@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:ender_pearl",
+    "latex:loose_rubber"
+  ],
+  "result": {
+    "id": "latex:rubberpearl",
+    "count": 1
+  }
+}

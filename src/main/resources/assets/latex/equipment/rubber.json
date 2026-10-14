@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "latex:rubber"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "latex:rubber"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "latex:rubber"
+      }
+    ]
+  }
+}

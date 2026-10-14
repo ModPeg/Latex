@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_sign",
+  "textures": {
+    "all": "latex:block/rubber_sign",
+    "particle": "latex:block/rubber_planks"
+  }
+}

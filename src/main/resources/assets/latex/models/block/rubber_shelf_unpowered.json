@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_unpowered",
+  "textures": {
+    "all": "latex:block/rubber_shelf",
+    "particle": "latex:block/stripped_rubber_log"
+  }
+}

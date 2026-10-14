@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_hanging_sign_rot_2",
+  "textures": {
+    "all": "latex:block/rubber_hanging_sign",
+    "particle": "latex:block/stripped_rubber_log"
+  }
+}

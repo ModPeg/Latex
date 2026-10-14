@@ -1,0 +1,12 @@
+{
+  "feature": "latex:mega_rubber",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": "latex:rubber_sapling"
+      }
+    }
+  ]
+}

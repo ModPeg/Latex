@@ -1,0 +1,35 @@
+{
+    "required": true,
+    "package": "com.modpeg.mixin",
+    "compatibilityLevel": "JAVA_25",
+    "mixins": [
+        "OverworldBiomeBuilderMixin",
+        "VillagerTypeMixin",
+        "BlockEntityTypeMixin",
+        "CauldronBlockMixin",
+        "CauldronPourMixin",
+        "FlowingFluidMixin",
+        "LatexSwimmingMixin",
+        "LatexSwimUpMixin",
+        "LatexFluidMovementMixin",
+        "PistonStructureResolverMixin",
+        "PistonMovingBlockEntityMixin",
+        "LatexLavaInteractionMixin",
+        "LatexPickaxeLeftClickMixin",
+        "LatexWindBurstMixin",
+        "LatexSwordReflectMixin",
+        "LatexAxeSlamMixin",
+        "LatexLivingEntityAccessor",
+        "LatexRubberBootsMixin",
+        "LatexSwiftSneakMixin",
+        "LatexBounceAnvilMixin"
+    ],
+    "client": [
+        "LatexCameraMixin",
+        "LatexFogColorMixin",
+        "LatexPickaxeSwingAnimationMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

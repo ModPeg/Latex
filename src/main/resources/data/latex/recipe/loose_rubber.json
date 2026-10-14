@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "latex:latex_bucket",
+  "result": {
+    "id": "latex:loose_rubber",
+    "count": 5
+  }
+}

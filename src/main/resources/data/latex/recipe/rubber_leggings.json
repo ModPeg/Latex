@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": "latex:loose_rubber"
+  },
+  "pattern": [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "latex:rubber_leggings"
+  }
+}

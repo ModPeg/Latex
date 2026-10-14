@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": "latex:loose_rubber"
+  },
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "latex:rubber_chestplate"
+  }
+}

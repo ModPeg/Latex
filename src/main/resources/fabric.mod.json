@@ -1,0 +1,30 @@
+{
+    "schemaVersion": 1,
+    "id": "latex",
+    "version": "${version}",
+    "name": "Latex",
+    "description": "A Latex mod for Minecraft.",
+    "authors": [
+        "ModPeg"
+    ],
+    "contact": {},
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.modpeg.Latex"
+        ],
+        "client": [
+            "com.modpeg.LatexClient"
+        ]
+    },
+    "mixins": [
+        "latex.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.19.5",
+        "minecraft": "~26.3",
+        "java": ">=25",
+        "fabric-api": "*"
+    }
+}
